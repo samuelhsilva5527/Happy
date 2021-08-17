@@ -1,2 +1,3 @@
 # Happy
-Site que mostra lugares que tenham orfanatos para quem deseja visitar.
+Criação de um site cujo a finalida é mostrar para aqueles que desejam levar alegrias para crianças orfãs.
+NLW3
